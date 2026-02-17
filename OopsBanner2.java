@@ -1,4 +1,3 @@
-package oop.banner;
 
 public class Oopbanner {
 
